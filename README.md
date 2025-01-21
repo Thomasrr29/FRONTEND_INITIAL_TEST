@@ -30,7 +30,7 @@ Este proyecto es una recreación simple de un sitio web llamado **Puppy World**,
 ## Instrucciones para Configurarlo
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/puppy-world.git
+   [git clone https://github.com/tu-usuario/puppy-world.git](https://github.com/Thomasrr29/FRONTEND_INITIAL_TEST.git)
 2. Entra a la carpeta del proyecto: 
 cd FRONTEND_INITIAL_TEST
 3. Abre el proyecto en Visual Studio Code o tu editor favorito:
